@@ -16,6 +16,6 @@ public class Main {
         System.out.println("oh1 = "+oh1.getA());
         oh1.setA(123);
         System.out.println("oh1 = "+oh1.getA());
-        int a = 0;
+        
     }
 }
